@@ -1,10 +1,10 @@
 # Rovit-Traffic-Dataset Python-Tools :trollface:
 
 Dataset: http://www.rovit.ua.es/dataset/traffic/
+
 This scripts help the user understand, convert to YOLO format and extract useful information from this dataset.
 
-Each class is numberd from 0 - 6.
-# Scripts:
+## Scripts:
 ### 1. ***generate_yolo_files***
  
   Converts xml file selecting specific classes to yolo format.
